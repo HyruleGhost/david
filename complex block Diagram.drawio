@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.8.8">
   <diagram name="Page-1" id="n2f0F_dpqC1D0QJt5zLc">
-    <mxGraphModel dx="1763" dy="2661" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4350" dy="3967" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,6 +56,16 @@
         </mxCell>
         <mxCell id="prXXR2PibG4hhnXOTKdj-18" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=9;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=NaN;lucidId=zwet6JKenKSA;container=1;collapsible=0;" parent="1" vertex="1">
           <mxGeometry x="-800" y="-688" width="375" height="161" as="geometry" />
+        </mxCell>
+        <mxCell id="8z45JURxSe-FBI6_Y_ED-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="prXXR2PibG4hhnXOTKdj-18" source="prXXR2PibG4hhnXOTKdj-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="868.272727272727" y="320.3636363636363" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-12" y="102" />
+              <mxPoint x="-12" y="395" />
+              <mxPoint x="868" y="395" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="prXXR2PibG4hhnXOTKdj-19" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0;image=https://images.lucid.app/images/fe2ea840-0298-4867-a670-a9dc1a8532f5/content;imageAspect=0;lucidId=yietzDVqgzS5;" parent="prXXR2PibG4hhnXOTKdj-18" vertex="1">
           <mxGeometry x="7.5" y="46.5" width="360" height="111" as="geometry" />
@@ -350,7 +360,7 @@
           <mxGeometry x="20" y="-19.851116625310176" width="127" height="19.851116625310176" as="geometry" />
         </mxCell>
         <mxCell id="8z45JURxSe-FBI6_Y_ED-125" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="221" y="-1378" width="2160" height="329" as="geometry" />
+          <mxGeometry x="220" y="-1389" width="2160" height="329" as="geometry" />
         </mxCell>
         <mxCell id="8z45JURxSe-FBI6_Y_ED-64" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=9;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#FAE5B4;strokeWidth=1.5;lucidId=pAkt4OJY_GvN;" vertex="1" parent="8z45JURxSe-FBI6_Y_ED-125">
           <mxGeometry width="2160" height="330" as="geometry" />
@@ -562,7 +572,7 @@
         </mxCell>
         <mxCell id="8z45JURxSe-FBI6_Y_ED-163" value="&quot;Real&quot; state values for real dynamics&lt;br&gt;we are allowed to use everything here" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8z45JURxSe-FBI6_Y_ED-160">
           <mxGeometry x="-0.8625" y="-2" relative="1" as="geometry">
-            <mxPoint x="-2" y="-14" as="offset" />
+            <mxPoint x="-8" y="8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8z45JURxSe-FBI6_Y_ED-161" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
@@ -628,7 +638,7 @@
           <mxGeometry x="2610" y="-1235" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8z45JURxSe-FBI6_Y_ED-175" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-810" y="-1120" width="450" height="360" as="geometry" />
+          <mxGeometry x="-817" y="-1117.5" width="450" height="360" as="geometry" />
         </mxCell>
         <mxCell id="prXXR2PibG4hhnXOTKdj-4" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=0;fillOpacity=40;fillColor=#019281;strokeWidth=1.5;strokeColor=none;lucidId=3bet.HmTBwfm;" parent="8z45JURxSe-FBI6_Y_ED-175" vertex="1">
           <mxGeometry width="450" height="360" as="geometry" />
@@ -656,7 +666,7 @@
           <mxGeometry x="-389" y="-497" width="166.31" height="113" as="geometry" />
         </mxCell>
         <mxCell id="8z45JURxSe-FBI6_Y_ED-177" value="maybe need to add ref gamma&lt;br&gt;&lt;br&gt;we have a control step beforhand to bring to gamma=20 " style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-812" y="-435" width="104" height="30" as="geometry" />
+          <mxGeometry x="-729" y="-461" width="104" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8z45JURxSe-FBI6_Y_ED-178" value="add theta75 and v" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-341" y="-394" width="104" height="30" as="geometry" />
